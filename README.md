@@ -38,6 +38,43 @@ Dining Guide has got you covered.
 
 - **User Accounts**:  Create accounts to save favourite restaurants, track dining history, and receive personalized recommendations.
 
+## Getting Started
+
+_Follow these steps to get Local Dining Guide up and running on your local machine._
+
+### Prerequisites
+
+**Web Browser:** Ensure you have a modern web browser installed to access the Local Dining Guide interface.
+
+</br>
+
+**Internet Connection:** A stable internet connection is required to fetch restaurant data and images.
+
+</br>
+
+
+### Installation
+
+1. **Clone the Repository:**
+   Start by cloning this repository to your local machine.
+   ```bash
+   git clone https://github.com/yourusername/local-dining-guide.git
+   ```
+
+2. **Navigate to Directory:**
+   Move into the project directory.
+   ```bash
+   cd local-dining-guide
+   ```
+
+3. **Launch the Application:**
+   Open the index.html file in your web browser.
+   ```bash
+   open index.html
+   ```
+
+
+
 ## Usage
 <ul>
 <li> <b>Search for Restaurants:</b> Use the search functionality to find dining options 
@@ -88,3 +125,5 @@ Thank you to the following contributors who have helped to improve this project:
 <img src="https://img.icons8.com/?size=100&id=119026&format=png&color=000000" width="25" height="25">	**Instagram**: @localdiningguide
 
 We hope you enjoy using Local Dining Guide to discover fantastic dining options in your area! Bon appétit! <img src="https://img.icons8.com/?size=100&id=hHCVRMNd3zwr&format=png&color=000000" width="20" height="20">
+
+
