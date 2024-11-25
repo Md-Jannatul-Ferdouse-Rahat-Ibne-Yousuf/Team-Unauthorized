@@ -10,6 +10,29 @@ for new culinary experiences or a traveller seeking the best dining spots in tow
 Dining Guide has got you covered.
 
 
+![alt text](<Project Logo.jpg>)
+
+## Table of Contents
+- Introduction
+- Development Technology
+- Features
+- Getting Started
+- Usage
+- Contributors
+- Contact Information
+
+## Introduction
+Local Dining Guide is a user-friendly platform that aims to connect users with local dining 
+options. It provides a rich and intuitive interface to search for restaurants, view their menus, 
+read reviews, and get directions. With a focus on enhancing the dining experience, this 
+software solution strives to bridge the gap between diners and local eateries.
+
+![alt text](<Project Banner.jpg>)
+
+
+### License
+This project is licensed under the [*MIT License*](https://www.bjitacademy.com/).
+
 ## Development Technology
 
 #### **Front-End**
@@ -125,5 +148,4 @@ Thank you to the following contributors who have helped to improve this project:
 <img src="https://img.icons8.com/?size=100&id=119026&format=png&color=000000" width="25" height="25">	**Instagram**: @localdiningguide
 
 We hope you enjoy using Local Dining Guide to discover fantastic dining options in your area! Bon appétit! <img src="https://img.icons8.com/?size=100&id=hHCVRMNd3zwr&format=png&color=000000" width="20" height="20">
-
 
